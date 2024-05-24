@@ -200,10 +200,12 @@ body{
     /* background-color: aqua; */
 }
 #container{
-    width: 100%;
-    height: 90%;
+    width: 50%;
+    height: 80%;
     /* background-color: transparent; */
     /* color: azure; */
+    position: absolute;
+    top: 3vh;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -250,7 +252,7 @@ h1{
 
 }
 #text{
-    width:22vw;
+    width:23vw;
     height:64vh;
     position: absolute;
     top: 3vh;
@@ -282,7 +284,7 @@ span{
 
 .card{
     position:relative;
-    width:25vw;
+    width:27vw;
     height:70vh;
     border-radius:0px 10px 10px 0px;
     background:#f4f4f4;
@@ -294,7 +296,7 @@ span{
     box-shadow:30px 40px 40px rgba(0,0,0,0.2);
  }
  .back{
-    width:25vw;
+    width:27vw;
     height:70vh;
     border-right: dotted 2px whitesmoke;
     border-left: solid 3px white;
