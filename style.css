@@ -201,7 +201,7 @@ body{
 }
 #container{
     width: 50%;
-    height: 80%;
+    height: 100%;
     /* background-color: transparent; */
     /* color: azure; */
     position: absolute;
