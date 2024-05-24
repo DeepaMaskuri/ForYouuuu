@@ -43,7 +43,7 @@ body{
     height: 29vh;
     position: absolute;
     left:70vw ;
-    bottom: 10vh;
+    bottom: 13vh;
 }
 #cupcake{
     width: 4.5vw;
@@ -58,7 +58,7 @@ body{
     height: 20vh;
     position: absolute;
     right: 13vw;
-    bottom: 5vh;
+    bottom: 7vh;
 }
 #ballon{
     width: 20vw;
@@ -252,7 +252,7 @@ h1{
 
 }
 #text{
-    width:23vw;
+    width:25vw;
     height:64vh;
     position: absolute;
     top: 3vh;
@@ -277,14 +277,9 @@ span{
     font-weight: 400;
     font-style: normal;
 }
-
-
-
-
-
 .card{
     position:relative;
-    width:27vw;
+    width:28vw;
     height:70vh;
     border-radius:0px 10px 10px 0px;
     background:#f4f4f4;
@@ -296,7 +291,7 @@ span{
     box-shadow:30px 40px 40px rgba(0,0,0,0.2);
  }
  .back{
-    width:27vw;
+    width:28vw;
     height:70vh;
     border-right: dotted 2px whitesmoke;
     border-left: solid 3px white;
